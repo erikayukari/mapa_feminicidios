@@ -1,0 +1,299 @@
+[
+    {
+      "id": 11,
+      "sigla": "RO",
+      "nome": "Rondônia",
+      "taxa": 1.8, 
+      "regiao": {
+        "id": 1,
+        "sigla": "N",
+        "nome": "Norte"
+      }
+    },
+    {
+      "id": 12,
+      "sigla": "AC",
+      "nome": "Acre",
+      "taxa":2.6, 
+      "regiao": {
+        "id": 1,
+        "sigla": "N",
+        "nome": "Norte"
+      }
+    },
+    {
+      "id": 13,
+      "sigla": "AM",
+      "nome": "Amazonas",
+      "densidade":1.1, 
+      "regiao": {
+        "id": 1,
+        "sigla": "N",
+        "nome": "Norte"
+      }
+    },
+    {
+      "id": 14,
+      "sigla": "RR",
+      "nome": "Roraima",
+      "densidade":1.6, 
+      "regiao": {
+        "id": 1,
+        "sigla": "N",
+        "nome": "Norte"
+      }
+    },
+    {
+      "id": 15,
+      "sigla": "PA",
+      "nome": "Pará",
+      "taxa":1.5, 
+      "regiao": {
+        "id": 1,
+        "sigla": "N",
+        "nome": "Norte"
+      }
+    },
+    {
+      "id": 16,
+      "sigla": "AP",
+      "nome": "Amapá",
+      "taxa":0.9, 
+      "regiao": {
+        "id": 1,
+        "sigla": "N",
+        "nome": "Norte"
+      }
+    },
+    {
+      "id": 17,
+      "sigla": "TO",
+      "nome": "Tocantins",
+      "taxa":2.6, 
+      "regiao": {
+        "id": 1,
+        "sigla": "N",
+        "nome": "Norte"
+      }
+    },
+    {
+      "id": 21,
+      "sigla": "MA",
+      "nome": "Maranhão",
+      "taxa": 1.6, 
+      "regiao": {
+        "id": 2,
+        "sigla": "NE",
+        "nome": "Nordeste"
+      }
+    },
+    {
+      "id": 22,
+      "sigla": "PI",
+      "nome": "Piauí",
+      "taxa":2.2,  
+      "regiao": {
+        "id": 2,
+        "sigla": "NE",
+        "nome": "Nordeste"
+      }
+    },
+    {
+      "id": 23,
+      "sigla": "CE",
+      "nome": "Ceará",
+      "taxa":0.7, 
+      "regiao": {
+        "id": 2,
+        "sigla": "NE",
+        "nome": "Nordeste"
+      }
+    },
+    {
+      "id": 24,
+      "sigla": "RN",
+      "nome": "Rio Grande do Norte",
+      "taxa":1.1, 
+      "regiao": {
+        "id": 2,
+        "sigla": "NE",
+        "nome": "Nordeste"
+      }
+    },
+    {
+      "id": 25,
+      "sigla": "PB",
+      "nome": "Paraíba",
+      "taxa":1.5, 
+      "regiao": {
+        "id": 2,
+        "sigla": "NE",
+        "nome": "Nordeste"
+      }
+    },
+    {
+      "id": 26,
+      "sigla": "PE",
+      "nome": "Pernambuco",
+      "taxa": 1.7, 
+      "regiao": {
+        "id": 2,
+        "sigla": "NE",
+        "nome": "Nordeste"
+      }
+    },
+    {
+      "id": 27,
+      "sigla": "AL",
+      "nome": "Alagoas",
+      "taxa": 1.4, 
+      "regiao": {
+        "id": 2,
+        "sigla": "NE",
+        "nome": "Nordeste"
+      }
+    },
+    {
+      "id": 28,
+      "sigla": "SE",
+      "nome": "Sergipe",
+      "taxa":1.7, 
+      "regiao": {
+        "id": 2,
+        "sigla": "NE",
+        "nome": "Nordeste"
+      }
+    },
+    {
+      "id": 29,
+      "sigla": "BA",
+      "nome": "Bahia",
+      "taxa":1.1, 
+      "regiao": {
+        "id": 2,
+        "sigla": "NE",
+        "nome": "Nordeste"
+      }
+    },
+    {
+      "id": 31,
+      "sigla": "MG",
+      "nome": "Minas Gerais",
+      "taxa":0.7, 
+      "regiao": {
+        "id": 3,
+        "sigla": "SE",
+        "nome": "Sudeste"
+      }
+    },
+    {
+      "id": 32,
+      "sigla": "ES",
+      "nome": "Espírito Santo",
+      "taxa":1.8, 
+      "regiao": {
+        "id": 3,
+        "sigla": "SE",
+        "nome": "Sudeste"
+      }
+    },
+    {
+      "id": 33,
+      "sigla": "RJ",
+      "nome": "Rio de Janeiro",
+      "densidade":0.9, 
+      "regiao": {
+        "id": 3,
+        "sigla": "SE",
+        "nome": "Sudeste"
+      }
+    },
+    {
+      "id": 35,
+      "sigla": "SP",
+      "nome": "São Paulo",
+      "densidade":0.6, 
+      "regiao": {
+        "id": 3,
+        "sigla": "SE",
+        "nome": "Sudeste"
+      }
+    },
+    {
+      "id": 41,
+      "sigla": "PR",
+      "nome": "Paraná",
+      "taxa":1.3, 
+      "regiao": {
+        "id": 4,
+        "sigla": "S",
+        "nome": "Sul"
+      }
+    },
+    {
+      "id": 42,
+      "sigla": "SC",
+      "nome": "Santa Catarina",
+      "taxa":31.5, 
+      "regiao": {
+        "id": 4,
+        "sigla": "S",
+        "nome": "Sul"
+      }
+    },
+    {
+      "id": 43,
+      "sigla": "RS",
+      "nome": "Rio Grande do Sul",
+      "taxa":1.6, 
+      "regiao": {
+        "id": 4,
+        "sigla": "S",
+        "nome": "Sul"
+      }
+    },
+    {
+      "id": 50,
+      "sigla": "MS",
+      "nome": "Mato Grosso do Sul",
+      "taxa":2.6, 
+      "regiao": {
+        "id": 5,
+        "sigla": "CO",
+        "nome": "Centro-Oeste"
+      }
+    },
+    {
+      "id": 51,
+      "sigla": "MT",
+      "nome": "Mato Grosso",
+      "densidade":2.4, 
+      "regiao": {
+        "id": 5,
+        "sigla": "CO",
+        "nome": "Centro-Oeste"
+      }
+    },
+    {
+      "id": 52,
+      "sigla": "GO",
+      "nome": "Goiás",
+      "densidade":1.5, 
+      "regiao": {
+        "id": 5,
+        "sigla": "CO",
+        "nome": "Centro-Oeste"
+      }
+    },
+    {
+      "id": 53,
+      "sigla": "DF",
+      "nome": "Distrito Federal",
+      "densidade":1.6, 
+      "regiao": {
+        "id": 5,
+        "sigla": "CO",
+        "nome": "Centro-Oeste"
+      }
+    }
+  ]
