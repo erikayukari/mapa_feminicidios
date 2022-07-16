@@ -25,7 +25,7 @@
       "id": 13,
       "sigla": "AM",
       "nome": "Amazonas",
-      "densidade":1.1, 
+      "taxa":1.1, 
       "regiao": {
         "id": 1,
         "sigla": "N",
@@ -36,7 +36,7 @@
       "id": 14,
       "sigla": "RR",
       "nome": "Roraima",
-      "densidade":1.6, 
+      "taxa":1.6, 
       "regiao": {
         "id": 1,
         "sigla": "N",
