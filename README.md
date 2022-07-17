@@ -1,7 +1,7 @@
 **Mapa do Feminicídio no Brasil - 2021**
 
 
-Em 2021, uma mulher foi vítima de [feminicídio]([url](https://www.politize.com.br/feminicidio/)) a cada 7 horas no Brasil.
+Em 2021, uma mulher foi vítima de [feminicídio](https://www.politize.com.br/feminicidio/) a cada 7 horas no Brasil.
 
 O seguinte mapa pretende mostrar a distribuição dos registros desse crime nos estados brasileiros.
 
